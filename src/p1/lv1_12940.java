@@ -1,6 +1,6 @@
 package p1;
 
-public class lv1_349837 {
+public class lv1_12940 {
 
     public static void main(String[] args){
         Solution solution = new Solution();
