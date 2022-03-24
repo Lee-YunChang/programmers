@@ -1,6 +1,7 @@
 package p1;
 
 import java.util.Arrays;
+import java.util.function.BinaryOperator;
 
 public class lv1_87389 {
 
